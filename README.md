@@ -1,0 +1,17 @@
+Öğrenmek ve kendimi geliştirmek için yaptığım 4 farklı mini EDA Projesi.
+
+Çeşitli çıktıları aşağıya koydum.
+**--**
+![kalp-krizi-dataset.png](kalp-krizi-dataset.png)
+**--**
+![obezite-dataset.png](obezite-dataset.png)
+**--**
+![simple-linear-regression.png](simple-linear-regression.png)
+**--**
+![simple-linear-regression.png](tv-sovlar-dataset.png)
+
+Projenin çalıştırılması için:
+```bash
+git clone https://github.com/mustafaklee/EDA-Uygulamalari.git
+cd EDA-Uygulamalari
+```
