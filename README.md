@@ -1,6 +1,4 @@
 Öğrenmek ve kendimi geliştirmek için yaptığım 4 farklı mini EDA Projesi.
-
-Çeşitli çıktıları aşağıya koydum.
 **--**
 ![kalp-krizi-dataset.png](images/kalp-krizi-dataset.png)
 **--**
