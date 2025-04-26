@@ -2,13 +2,13 @@
 
 Çeşitli çıktıları aşağıya koydum.
 **--**
-![kalp-krizi-dataset.png](kalp-krizi-dataset.png)
+![kalp-krizi-dataset.png](images/kalp-krizi-dataset.png)
 **--**
-![obezite-dataset.png](obezite-dataset.png)
+![obezite-dataset.png](images/obezite-dataset.png)
 **--**
-![simple-linear-regression.png](simple-linear-regression.png)
+![simple-linear-regression.png](images/simple-linear-regression.png)
 **--**
-![simple-linear-regression.png](tv-sovlar-dataset.png)
+![simple-linear-regression.png](images/tv-sovlar-dataset.png)
 
 Projenin çalıştırılması için:
 ```bash
